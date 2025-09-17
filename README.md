@@ -1,5 +1,5 @@
-markdown name=README.md
-# Policy Collapse
+
+# Policy Collaps in MORL
 
 Research code and notebooks for exploring “policy collapse” — the phenomenon where learned policies degenerate, lose diversity, or converge to suboptimal behavior — in machine learning settings such as reinforcement learning and/or generative modeling.
 
